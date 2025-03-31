@@ -1,0 +1,1 @@
+<x-contract-expandable :is-expanded="$isExpanded" :contract="$contract"></x-contract-expandable>

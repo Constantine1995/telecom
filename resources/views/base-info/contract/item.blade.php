@@ -1,0 +1,1 @@
+ <livewire:contract-expandable-section :contract="$contract"/>
