@@ -3,10 +3,10 @@
 # Telecom – интернет провадйер.
 
 ## Команды для запуска проекта:
-Требуется установка:
-composer https://getcomposer.org
-php8.2 https://windows.php.net/download
-node.js: https://nodejs.org/en
+Требуется установка:<br>
+composer https://getcomposer.org<br>
+php8.2 https://windows.php.net/download<br>
+node.js: https://nodejs.org/en<br>
 
 <br>
 Mac:
